@@ -1,4 +1,4 @@
-package com.app.dagger2examples.cheezecode
+package com.app.dagger2examples.cheezecode.message
 
 import javax.inject.Qualifier
 

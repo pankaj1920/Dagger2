@@ -1,8 +1,7 @@
-package com.app.dagger2examples.cheezecode
+package com.app.dagger2examples.cheezecode.db
 
 import dagger.Binds
 import dagger.Module
-import dagger.Provides
 
 //@Module
 //class UserRepositoryModule {

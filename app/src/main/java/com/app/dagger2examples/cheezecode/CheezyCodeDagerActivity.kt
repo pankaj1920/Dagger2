@@ -6,6 +6,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.app.dagger2examples.R
+import com.app.dagger2examples.cheezecode.db.UserRegistrationService
+import com.app.dagger2examples.cheezecode.message.EmailService
 import javax.inject.Inject
 
 class CheezyCodeDagerActivity : AppCompatActivity() {

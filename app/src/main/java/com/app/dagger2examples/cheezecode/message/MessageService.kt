@@ -1,7 +1,6 @@
-package com.app.dagger2examples.cheezecode
+package com.app.dagger2examples.cheezecode.message
 
 import android.util.Log
-import javax.inject.Inject
 
 /*class EmailService @Inject constructor() {
 

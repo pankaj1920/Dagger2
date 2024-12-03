@@ -1,7 +1,8 @@
-package com.app.dagger2examples.cheezecode
+package com.app.dagger2examples.cheezecode.db
 
+import com.app.dagger2examples.cheezecode.message.MessageQualifier
+import com.app.dagger2examples.cheezecode.message.NotificationService
 import javax.inject.Inject
-import javax.inject.Named
 
 class UserRegistrationService @Inject constructor(
     private val userRepository: UserRepository,
