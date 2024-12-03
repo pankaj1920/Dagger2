@@ -1,7 +1,6 @@
-package com.app.dagger2examples.cheezecode.message
+package com.app.dagger2examples.cheezecode.db
 
 import android.util.Log
-import com.app.dagger2examples.cheezecode.db.UserRepository
 import javax.inject.Inject
 
 class FirebaseRepository @Inject constructor() : UserRepository {
